@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.user-card {
+  list-style-type: none;
+  width: 250px;
+  font-family: 'Open-sans';
+  padding: 5px;
+}
+.destination-image {
+  height: 150px;
+  width: 200px;
+}
+.name-card {
+  color: #000000;
+  font-size: 15px;
+  font-weight: bold;
+}
